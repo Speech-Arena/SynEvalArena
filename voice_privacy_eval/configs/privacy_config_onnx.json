@@ -1,0 +1,18 @@
+{
+    "ASR": true, 
+    "ASV": true, 
+    "VoiceMOS": true,
+    "Energy": true,
+    "Pitch": true,
+
+    "asv_model_paths":
+    {
+            "asv_ecapa1024":"/asv_ecapa1024lm.onnx",
+            "asv_ecapa512":"/asv_ecapa512lm.onnx",
+            "asv_resnet34":"/asv_resnet34lm.onnx",
+            "asv_resnet152":"/asv_resnet152lm.onnx",
+            "asv_gemini_dfresnet":"/asv_geminiresnetlm.onnx",
+            "asv_cam":"/asv_camlm.onnx"
+
+    }
+}
