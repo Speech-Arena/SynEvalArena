@@ -73,3 +73,7 @@ This repository contains two main toolkit directories 📁:
 ---
 
 
+### Maintainers
+
+- [Ajinkya Kulkarni](mailto:ajinkya.kulkarni@idiap.ch)
+- [Atharva Kulkarni](atharva.kulkarni@mbzuai.ac.ae) 
